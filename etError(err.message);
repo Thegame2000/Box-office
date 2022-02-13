@@ -1,0 +1,53 @@
+[33mcommit ba6d4c1b8f2e846165b681a9adbd9a132f8d15b4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Abhiraj <singhabhiraj915@gmail.com>
+Date:   Sun Feb 13 18:48:12 2022 +0530
+
+    Added loading & error messages
+
+[33mcommit faa89dd8041e6ca39ee1487484c87b56d1ecb04e[m
+Author: Abhiraj <singhabhiraj915@gmail.com>
+Date:   Sun Feb 13 15:51:57 2022 +0530
+
+    installed Styled components and styles for search card
+
+[33mcommit 9b59ba91e8494047b3572fccf5f7fdde32f580d8[m
+Author: Abhiraj <singhabhiraj915@gmail.com>
+Date:   Sun Feb 13 12:50:33 2022 +0530
+
+    Created preview card for API data
+
+[33mcommit ac3e82b68dd12b7f7c25d1685832002320b92a90[m
+Author: Abhiraj <singhabhiraj915@gmail.com>
+Date:   Sat Feb 12 23:08:53 2022 +0530
+
+    added search option
+
+[33mcommit a1e965a5dc6e741dab0df5aea6f45a740978847f[m
+Author: Abhiraj <singhabhiraj915@gmail.com>
+Date:   Fri Feb 11 22:28:03 2022 +0530
+
+    Displayed show results
+
+[33mcommit d0d3a272b49598c1a4860103d3374d6f76987966[m
+Author: Abhiraj <singhabhiraj915@gmail.com>
+Date:   Thu Feb 10 23:47:51 2022 +0530
+
+    Added layout management
+
+[33mcommit 9040482aa33ee1f3e328eb1258b15cadea6a4a8c[m
+Author: Abhiraj <singhabhiraj915@gmail.com>
+Date:   Thu Feb 10 23:15:44 2022 +0530
+
+    Added navbar
+
+[33mcommit 2baf8562f5b89bd90f45b0223b917f7cb6dfdb58[m
+Author: Abhiraj <singhabhiraj915@gmail.com>
+Date:   Thu Feb 10 21:59:45 2022 +0530
+
+    Added react-router
+
+[33mcommit 034bcd75348398dff1c57960874f3bf9918d5354[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Abhiraj <singhabhiraj915@gmail.com>
+Date:   Thu Feb 10 20:53:24 2022 +0530
+
+    Initialized new project
