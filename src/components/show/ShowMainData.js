@@ -17,6 +17,7 @@ function ShowMainData({ name, rating, summary, tags, image }) {
         </Headline>
         <div
           className="summary"
+          // eslint-disable-next-line react/no-danger
           dangerouslySetInnerHTML={{ __html: summary }}
         />
 
